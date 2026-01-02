@@ -17,10 +17,7 @@ _Backend Developer focused on Blockchain Services_
 - 🌱 Go와 NestJS 기반의 실서비스 지향 백엔드를 학습·개발 중입니다
 
 📬 **Contact**
-- Blog: https://letusgrow.tistory.com  
-- GitHub: https://github.com/Bread-bang  
-
-> Any feedback or discussion about backend & blockchain systems is always welcome 🙂
+- Email: bang960527@gmail.com
 
 ---
 
