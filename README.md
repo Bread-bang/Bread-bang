@@ -46,3 +46,5 @@ I am particularly interested in designing **stable backend architectures and inf
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agumon05)](https://solved.ac/agumon05)
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bread-bang&theme=dark)](https://git.io/streak-stats)
