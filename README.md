@@ -50,7 +50,5 @@ I am particularly interested in designing **stable backend architectures and inf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bread-bang&show_icons=true&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread-bang&layout=compact" />
+  <img src="https://metrics.lecoq.io/Bread-bang" />
 </p>
