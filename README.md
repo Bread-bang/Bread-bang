@@ -7,14 +7,14 @@ _Backend Developer focused on Blockchain Services_
 
 ## 👋 About Me
 
-견고하고 예측 가능한 시스템을 만드는 것을 좋아하는 백엔드 개발자입니다.  
-블록체인 서비스의 특성상 **신뢰성, 정합성, 장애 대응**이 중요하다고 생각하며,  
-이를 뒷받침하는 **안정적인 백엔드 아키텍처와 인프라 설계**에 관심이 많습니다.
+I am a backend developer who enjoys building **robust and predictable systems**.  
+In blockchain services, where **reliability, consistency, and fault tolerance** are critical,  
+I am particularly interested in designing **stable backend architectures and infrastructure** that support these requirements.
 
-- ⚙️ 관심 분야: **Blockchain Service Backend, Distributed Systems**
-- 🔐 키워드: **Stability · Consistency · Fault Tolerance**
-- 🧠 메시지 기반 비동기 처리와 트래픽 분산 구조에 흥미가 있습니다
-- 🌱 Go와 NestJS 기반의 실서비스 지향 백엔드를 학습·개발 중입니다
+- ⚙️ Interests: **Blockchain Service Backends, Distributed Systems**
+- 🔐 Core values: **Stability · Consistency · Fault Tolerance**
+- 🧠 Interested in message-driven asynchronous processing and traffic distribution architectures
+- 🌱 Actively building and learning production-oriented backends using **Go** and **NestJS**
 
 📬 **Contact**
 - Email: bang960527@gmail.com
@@ -37,7 +37,7 @@ _Backend Developer focused on Blockchain Services_
 
 ### Messaging & Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
@@ -54,5 +54,3 @@ _Backend Developer focused on Blockchain Services_
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread-bang&layout=compact" />
 </p>
-
----
