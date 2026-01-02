@@ -46,9 +46,3 @@ I am particularly interested in designing **stable backend architectures and inf
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agumon05)](https://solved.ac/agumon05)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Bread-bang" />
-</p>
