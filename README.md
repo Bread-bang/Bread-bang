@@ -1,20 +1,19 @@
-# A Developer Who Builds Robust Systems 🧱
-
-Hi, I'm **Bread-bang** 👋  
-_Backend Developer focused on Blockchain Services_
+# A Backend Developer Balancing AI & Reliability 🧱
+Hi, I'm **Seokmin Bang** 👋  
+_Backend Developer · AI Service Integration · Blockchain Infrastructure_
 
 ---
 
 ## 👋 About Me
 
-I am a backend developer who enjoys building **robust and predictable systems**.  
-In blockchain services, where **reliability, consistency, and fault tolerance** are critical,  
-I am particularly interested in designing **stable backend architectures and infrastructure** that support these requirements.
+I build **reliable backend systems** that safely connect **AI capabilities** to end users.  
+My focus is on designing architectures where **LLM-based features** and **blockchain infrastructure**  
+can be integrated into real-world products without sacrificing **stability, consistency, or fault tolerance**.
 
-- ⚙️ Interests: **Blockchain Service Backends, Distributed Systems**
-- 🔐 Core values: **Stability · Consistency · Fault Tolerance**
-- 🧠 Interested in message-driven asynchronous processing and traffic distribution architectures
-- 🌱 Actively building and learning production-oriented backends using **Go** and **NestJS**
+- 🤖 **AI/LLM**: Prompt engineering, model migration benchmarking (GPT-4o-mini → GPT-5-mini/nano), Async Job patterns
+- ⚙️ **Backend**: Distributed systems, message-driven async processing, traffic distribution
+- 🔐 **Core values**: Stability · Consistency · Fault Tolerance
+- 🌱 **Stack**: Go · NestJS · PostgreSQL · Redis · RabbitMQ · OpenAI API
 
 📬 **Contact**
 - Email: bang960527@gmail.com
