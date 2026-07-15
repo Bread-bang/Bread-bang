@@ -1,6 +1,6 @@
 # A Backend Developer Balancing AI & Reliability 🧱
 Hi, I'm **Seokmin Bang** 👋  
-_Backend Developer · AI Service Integration · Blockchain Infrastructure_
+_Backend Developer · AI Service Integration
 
 ---
 
@@ -10,7 +10,6 @@ I build **reliable backend systems** that safely connect **AI capabilities** to 
 My focus is on designing architectures where **LLM-based features** and **blockchain infrastructure**  
 can be integrated into real-world products without sacrificing **stability, consistency, or fault tolerance**.
 
-- 🤖 **AI/LLM**: Prompt engineering, model migration benchmarking (GPT-4o-mini → GPT-5-mini/nano), Async Job patterns
 - ⚙️ **Backend**: Distributed systems, message-driven async processing, traffic distribution
 - 🔐 **Core values**: Stability · Consistency · Fault Tolerance
 - 🌱 **Stack**: Go · NestJS · PostgreSQL · Redis · RabbitMQ · OpenAI API
