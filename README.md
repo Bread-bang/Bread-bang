@@ -7,7 +7,7 @@ _Backend Developer · AI Service Integration
 ## 👋 About Me
 
 I build **reliable backend systems** that safely connect **AI capabilities** to end users.  
-My focus is on designing architectures where **LLM-based features** and **blockchain infrastructure**  
+My focus is on designing architectures where **LLM-based features**
 can be integrated into real-world products without sacrificing **stability, consistency, or fault tolerance**.
 
 - ⚙️ **Backend**: Distributed systems, message-driven async processing, traffic distribution
